@@ -4,12 +4,15 @@
 
 cff-version: 1.2.0
 message: "If you use this report in your research, please cite it as follows."
-title: "DeepSeek V4 × J-Space Capability Realization Report"
+title: "DeepSeek V4 × J-Space 能力释放报告 / Capability Realization Report"
 authors:
   - family-names: "Tiger3807861189"
-date-released: "2026-08-17"
-version: "1.0"
-doi: "10.5281/zenodo.21971185"
+date-released: "2026-08-23"
+version: "2.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21971185"
+    description: "Concept DOI for all releases"
 license: "CC-BY-ND-4.0"
 keywords:
   - "DeepSeek V4"
@@ -21,9 +24,9 @@ keywords:
   - "dsh-plugin"
 url: "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report"
 abstract: >-
-  This report analyzes how DeepSeek V4 (Flash-0731 / Pro-0813) loses
-  capability under real agentic conditions and how the J-Space Cognition
-  Suite reduces capability-realization loss. It documents benchmark evidence,
-  the chain-of-thought diode analysis, and engineering conclusions. The report
-  is licensed under CC BY-ND 4.0: share and cite with attribution; do not
+  A/B evaluation report of J-Space V3.7 on DeepSeek V4-Flash-Vision-Exp across
+  authoritative benchmark subsets (Terminal-Bench 2.1, DeepSWE, GAIA, etc.),
+  with identical model, environment, and sampling — only the J-Space toggle
+  differs. Two-factor measurement: accuracy and wall-clock. The report is
+  licensed under CC BY-ND 4.0: share and cite with attribution; do not
   modify or distribute derivative works.
