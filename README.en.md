@@ -1,5 +1,7 @@
 # DeepSeek V4 × J-Space Capability Realization Report
 
+[简体中文](README.md)
+
 > **Companion suite**: [J-Space Cognition Suite V3.7](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.7) | Subject: DeepSeek V4-Flash-Vision-Exp (with/without J-Space A/B)
 
 
