@@ -1,5 +1,7 @@
 # DeepSeek V4 × J-Space 能力释放报告
 
+[English](README.en.md)
+
 > **配套套件**：[J-Space Cognition Suite V3.7](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.7) ｜ 评测对象：DeepSeek V4-Flash-Vision-Exp（有无 J-Space 对照）
 
 
