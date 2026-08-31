@@ -20,6 +20,7 @@
 | AutomationBench (Public) |                         25.7 |                                        **27.5** |    48.2 |     27.2 |                  29.1 |
 
 \* HLE scores were not disclosed and follow DeepSeek V4-Flash-0731. 
+Ranking by average score across the five fully-reported benchmarks (HLE w/ tools, Terminal Bench 2.1, DeepSWE, Agents' Last Exam, and AutomationBench — the only rows where all five models have scores): GLM-5.3 takes first place with an average of 58.86. Fable 5 (with fallback) comes in second at 54.78. **The DeepSeek V4-Flash-Vision-Exp augmented with J-Space V3.7 ranks third at 50.96, edging out Opus-4.8, which sits fourth at 50.76.** The baseline DeepSeek V4-Flash-Vision-Exp trails in fifth place at 49.54.
 
 ### 2. Speed and token efficiency
 
