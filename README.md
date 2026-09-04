@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-[![Concept DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21971181.svg)](https://doi.org/10.5281/zenodo.21971181)
+[![Concept DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21971185.svg)](https://doi.org/10.5281/zenodo.21971185)
 
 J-Space Cognition Suite is a model-agnostic inference-time control system for deep reasoning, long-horizon work, tool use, verification, and recovery.
 
