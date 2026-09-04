@@ -1,0 +1,22 @@
+{
+  "title": "只动 Harness，就能把 GLM-5.3-Flash 推到 Opus-5 身侧！ / GLM-5.3-Flash × J-Space Capability Realization Report",
+  "description": "<p>A/B evaluation report of J-Space V3.7 (inference-time cognitive control suite) on GLM-5.3-Flash, covering Terminal-Bench 2.1, DeepSWE, ALE, AutomationBench and HLE subsets, GAIA-based efficiency measurements, and reproduction across five model families. Supersedes the retired DeepSeek V4 report archived under 10.5281/zenodo.21971185.</p>",
+  "creators": [
+    {
+      "name": "Tiger3807861189"
+    }
+  ],
+  "keywords": [
+    "GLM-5.3-Flash",
+    "J-Space",
+    "capability realization",
+    "benchmark",
+    "agentic reasoning",
+    "inference-time control",
+    "cognitive harness"
+  ],
+  "license": "Apache-2.0",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "access_right": "open"
+}
