@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-[![Concept DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21971181.svg)](https://doi.org/10.5281/zenodo.21971181)
+[![Concept DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21971185.svg)](https://doi.org/10.5281/zenodo.21971185)
 
 J-Space Cognition Suite 是一套面向深度推理、长程工作、工具调用、验证与恢复的模型不可知推理时控制系统。
 
