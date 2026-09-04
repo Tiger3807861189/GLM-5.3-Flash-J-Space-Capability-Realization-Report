@@ -4,29 +4,30 @@
 
 cff-version: 1.2.0
 message: "If you use this report in your research, please cite it as follows."
-title: "DeepSeek V4 × J-Space 能力释放报告 / Capability Realization Report"
+title: "只动 Harness，就能把 GLM-5.3-Flash 推到 Opus-5 身侧！ / GLM-5.3-Flash × J-Space Capability Realization Report"
 authors:
   - family-names: "Tiger3807861189"
-date-released: "2026-08-23"
-version: "2.0"
+date-released: "2026-09-04"
+version: "V4"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21971185"
     description: "Concept DOI for all releases"
 license: "CC-BY-ND-4.0"
 keywords:
-  - "DeepSeek V4"
+  - "GLM-5.3-Flash"
   - "J-Space"
   - "capability realization"
   - "benchmark"
   - "agentic reasoning"
   - "inference-time control"
-  - "dsh-plugin"
-url: "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report"
+  - "cognitive harness"
+url: "https://github.com/Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report"
 abstract: >-
-  A/B evaluation report of J-Space V3.7 on DeepSeek V4-Flash-Vision-Exp across
-  authoritative benchmark subsets (Terminal-Bench 2.1, DeepSWE, GAIA, etc.),
-  with identical model, environment, and sampling — only the J-Space toggle
-  differs. Two-factor measurement: accuracy and wall-clock. The report is
-  licensed under CC BY-ND 4.0: share and cite with attribution; do not
-  modify or distribute derivative works.
+  A/B evaluation report of J-Space V3.7 (inference-time cognitive control
+  suite) on GLM-5.3-Flash across Terminal-Bench 2.1, DeepSWE, ALE,
+  AutomationBench and HLE subsets, with GAIA-based efficiency measurements
+  and reproduction across five model families. Identical model, environment,
+  and sampling — only the J-Space toggle differs. The report is licensed
+  under CC BY-ND 4.0: share and cite with attribution; do not modify or
+  distribute derivative works.
